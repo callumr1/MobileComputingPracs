@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GuessTheCeleb</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="names_0">
+        <item>Chad Spitt</item>
+        <item>Bob Johnson</item>
+        <item name="Correct">Brad Pitt</item>
+        <item>Sam Reigel</item>
+    </array>
+    <array name="names_1">
+        <item name="Correct">Mr Bean</item>
+        <item>Sister Bean</item>
+        <item>Mr Lean</item>
+        <item>John Smith</item>
+    </array>
+    <array name="names_2">
+        <item>Shane William</item>
+        <item>Frank Johnson</item>
+        <item>Liam Jaffe</item>
+        <item name="Correct">Matt Mercer</item>
+    </array>
+    <array name="names_3">
+        <item name="Correct">Marisha Ray</item>
+        <item>Ashley Johnson</item>
+        <item>Laura Bailey</item>
+        <item>Bianca Stone</item>
+    </array>
+    <array name="names_4">
+        <item>Spencer Jones</item>
+        <item name="Correct">Travis Willingham</item>
+        <item>Scott Willingham</item>
+        <item>Percy Simmons</item>
+    </array>
+</resources>
