@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDietApp</string>
+    <string name="quote">Motivational Quote</string>
+    <string name="burgerImageText">An image of a burger and chips</string>
+</resources>
